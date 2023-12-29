@@ -1,38 +1,60 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Google Clone
 
-## Getting Started
+![final output ](https://i.pinimg.com/originals/2c/02/04/2c0204f1f36c9e0fc60928d27b13ccb7.jpg)
 
-First, run the development server:
+![final output ](https://i.pinimg.com/originals/10/a4/0a/10a40ab5d5451712875439f940afed0d.jpg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+🌐 Google Clone with Next.js 🚀
+
+A personalized search experience crafted with Next.js and the Google Programmable Search Engine API. Explore the power of Next.js in this solo project, blending familiarity with creativity to redefine the search journey. Check it out and share your thoughts! 💻🔍
+
+### Features
+
+- 🔍 Google API Integration
+- 🌐 Personalized Search
+- 🌈 Creative Exploration
+- 💻 Solo Project Innovation
+- 📸 Image Search
+- 🔮 Instant Suggestions
+- 🔗 Rich Web Snippets
+- 🔐 Account Integration
+
+### Cloning the repository
+
+```shell
+git clone https://github.com/bala587/Google-Clone.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Install packages 
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```shell
+npm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Setup .env file
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```js
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+NEXT_PUBLIC_IP_API_KEY=
+API_KEY=
+CONTEXT_KEY=
 
-## Learn More
+```
 
-To learn more about Next.js, take a look at the following resources:
+### Get API 
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Location](https://extreme-ip-lookup.com/) 
+![google programmble search engine](https://developers.google.com/custom-search/v1/using_rest?hl=en)
+![ConText](https://developers.google.com/custom-search/v1/using_rest?hl=en)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Start Your App
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+ ```shell
+npm run dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+
