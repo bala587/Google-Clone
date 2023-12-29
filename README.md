@@ -43,9 +43,9 @@ CONTEXT_KEY=
 
 ### Get API 
 
-![Location](https://extreme-ip-lookup.com/) 
-![google programmble search engine](https://developers.google.com/custom-search/v1/using_rest?hl=en)
-![ConText](https://developers.google.com/custom-search/v1/using_rest?hl=en)
+![](https://extreme-ip-lookup.com/) 
+![](https://developers.google.com/custom-search/v1/using_rest?hl=en)
+![](https://developers.google.com/custom-search/v1/using_rest?hl=en)
 
 
 ### Start Your App
