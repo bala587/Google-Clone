@@ -4,7 +4,7 @@
 
 ![final output ](https://i.pinimg.com/originals/10/a4/0a/10a40ab5d5451712875439f940afed0d.jpg)
 
-🌐 Google Clone with Next.js 🚀
+🌐 Google Clone with Next.js 🚀 
 
 A personalized search experience crafted with Next.js and the Google Programmable Search Engine API. Explore the power of Next.js in this solo project, blending familiarity with creativity to redefine the search journey. Check it out and share your thoughts! 💻🔍
 
